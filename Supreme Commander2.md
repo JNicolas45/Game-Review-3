@@ -30,8 +30,8 @@ But as mentioned its a fun game, sure the AI can be wacky and the game has been 
 
 ## Additional Information
 
-Links used were the Steam Homeoage for the game: https://store.steampowered.com/app/40100/Supreme_Commander_2/
+The Steam Homepage for the game: https://store.steampowered.com/app/40100/Supreme_Commander_2/
 
 Supreme Commander 2 review from IGN: https://www.youtube.com/watch?v=gwYVDiZpKuY
 
-Another Review Supreme Commander 2 review from GameSpot: https://www.youtube.com/watch?v=DPkWIC4711c
+Review of Supreme Commander 2 from GameSpot: https://www.youtube.com/watch?v=DPkWIC4711c

@@ -1,7 +1,7 @@
 Game Review for Supreme Commander 2
 
 ## Details
-Published by Square Enix, Released on PC on mARCH 2nd 2010, Released on Xbox 360 on March 16th, 2010 , Released on Mac OS on September 24th, 2010
+Published by Square Enix and Developed by Gas Powered Games, Released on PC on March 2nd, 2010, Released on Xbox 360 on March 16th, 2010 , Released on Mac OS on September 24th, 2010
 ### Game Title
 
 You can find the game on Steam for 12 dollars, with the Supreme Commander Bundle which comes with the First Game 15 dollars though both are usally on sale for 9 dollars. I got the PC version as the Xbox 360 version is as of now quite rare to find unless you goto Amazon or Wish.com
@@ -31,5 +31,7 @@ But as mentioned its a fun game, sure the AI can be wacky and the game has been 
 ## Additional Information
 
 Links used were the Steam Homeoage for the game: https://store.steampowered.com/app/40100/Supreme_Commander_2/
+
 Supreme Commander 2 review from IGN: https://www.youtube.com/watch?v=gwYVDiZpKuY
+
 Another Review Supreme Commander 2 review from GameSpot: https://www.youtube.com/watch?v=DPkWIC4711c
